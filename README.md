@@ -13,6 +13,7 @@ This is a simple demonstration of a bruteforce method. The script takes as an in
 
 There is a lot to be desired:
 
+* Better coding style. Maybe and OOP solution?
 * Optimization can be done on the data structures used.
 * The use of matplotlib limits the graphing capabilities. Maximum number of points displayed is as of now 1000. 
 
