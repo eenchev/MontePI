@@ -4,7 +4,7 @@ Rough Python implementation of a Monte Carlo method to estimate the value of π
 
 ## How it Works
 
-This is a simple demonstration of a bruteforce method. The script takes as an input a number for points to generate and outputs its π estimation. Its terminal and graphical outputs can be seen in the following screenshot:
+This is a simple demonstration of a bruteforce method. The script takes as an input a number for points to generate and outputs π estimation. Its terminal and graphical outputs can be seen in the following screenshot:
 
 ![ScreenShot](https://raw.github.com/eenchev/MontePI/master/screenshots/output.png)
 
